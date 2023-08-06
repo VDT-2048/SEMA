@@ -29,6 +29,7 @@ https://github.com/VDT-2048/VDT-Dataset
 https://github.com/VDT-2048/MFDF
 
 [3]  MFFNet: Multi-modal Feature Fusion Network for VDT Salient Object Detection[J]. IEEE Transactions on Multimedia, 2023.
+https://ieeexplore.ieee.org/abstract/document/10171982
  
 # Related Work of RGB-T Salient Object Detection
 [1]  Multiple Graph Affinity Interactive Network and A Variable Illumination Dataset for RGBT Image Salient Object Detection [J]. IEEE Transactions on Circuits and Systems for Video Technology, 2023, 33(7), 3104-3118.
